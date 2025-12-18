@@ -1,0 +1,32 @@
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.exe
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.deps.json
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.runtimeconfig.json
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.dll
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.pdb
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.Form1.resources
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.csproj.GenerateResource.cache
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.AssemblyInfoInputs.cache
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.AssemblyInfo.cs
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.dll
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\refint\AsyncDemo.dll
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.pdb
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.genruntimeconfig.cache
+C:\Users\elkabaim\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\ref\AsyncDemo.dll
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.exe
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.deps.json
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.runtimeconfig.json
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.dll
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\bin\Debug\net8.0-windows\AsyncDemo.pdb
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.Form1.resources
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.csproj.GenerateResource.cache
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.AssemblyInfoInputs.cache
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.AssemblyInfo.cs
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.dll
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\refint\AsyncDemo.dll
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.pdb
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\AsyncDemo.genruntimeconfig.cache
+C:\Users\mrbag\Documents\contemporary programming\AsyncDemo\AsyncDemo\AsyncDemo\obj\Debug\net8.0-windows\ref\AsyncDemo.dll

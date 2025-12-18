@@ -1,0 +1,34 @@
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.exe
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.deps.json
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.runtimeconfig.json
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmInventoryMaint.resources
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmNewItem.resources
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfo.cs
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\refint\InventoryMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.genruntimeconfig.cache
+C:\Islam\Fall 2025\Contemporary Programming\M7\New Net8 Lab\Exercise\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\ref\InventoryMaintenance.dll
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.exe
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.deps.json
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.runtimeconfig.json
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmInventoryMaint.resources
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmNewItem.resources
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\refint\InventoryMaintenance.dll
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.genruntimeconfig.cache
+C:\Users\mrbag\Documents\contemporary programming\InventoryMaintenance-5\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\ref\InventoryMaintenance.dll

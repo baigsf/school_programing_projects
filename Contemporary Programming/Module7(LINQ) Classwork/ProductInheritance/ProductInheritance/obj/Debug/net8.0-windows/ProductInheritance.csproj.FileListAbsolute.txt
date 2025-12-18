@@ -1,0 +1,415 @@
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.exe
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.deps.json
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.runtimeconfig.json
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.ProductMaintenance.resources
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.GenerateResource.cache
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfoInputs.cache
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfo.cs
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.CoreCompileInputs.cache
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.dll
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\refint\ProductInheritance.dll
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.genruntimeconfig.cache
+C:\Users\elkabaim\source\repos\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ref\ProductInheritance.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.exe
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.deps.json
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.runtimeconfig.json
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.ProductMaintenance.resources
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.GenerateResource.cache
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfoInputs.cache
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfo.cs
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.CoreCompileInputs.cache
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\refint\ProductInheritance.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.genruntimeconfig.cache
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ref\ProductInheritance.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks.mdf
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks_log.ldf
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.AssemblyReference.cache
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductI.F2D6F36F.Up2Date
+C:\Islam\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll.config
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks.mdf
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks_log.ldf
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.exe
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll.config
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.deps.json
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.runtimeconfig.json
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.AssemblyReference.cache
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.ProductMaintenance.resources
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.GenerateResource.cache
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfoInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfo.cs
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.CoreCompileInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductI.F2D6F36F.Up2Date
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\refint\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.genruntimeconfig.cache
+C:\Islam\Fall 2024\Contemporary Programming\EF Test\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ref\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks.mdf
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\MMABooks_log.ldf
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.exe
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll.config
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.deps.json
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.runtimeconfig.json
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.AssemblyReference.cache
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.ProductMaintenance.resources
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.GenerateResource.cache
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfoInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.AssemblyInfo.cs
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.csproj.CoreCompileInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductI.F2D6F36F.Up2Date
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\refint\ProductInheritance.dll
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.pdb
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ProductInheritance.genruntimeconfig.cache
+C:\Islam\Fall 2024\Contemporary Programming\M7\ProductInheritance\ProductInheritance\obj\Debug\net8.0-windows\ref\ProductInheritance.dll

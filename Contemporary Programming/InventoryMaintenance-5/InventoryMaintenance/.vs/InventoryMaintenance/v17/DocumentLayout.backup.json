@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\mrbag\\documents\\contemporary programming\\inventorymaintenance-5\\inventorymaintenance\\inventorymaintenance\\inventoryitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\inventoryitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\mrbag\\documents\\contemporary programming\\inventorymaintenance-5\\inventorymaintenance\\inventorymaintenance\\frminventorymaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frminventorymaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\mrbag\\documents\\contemporary programming\\inventorymaintenance-5\\inventorymaintenance\\inventorymaintenance\\frminventorymaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B4E9F0-24A4-4AB1-BB04-353B10ABB3EF}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frminventorymaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInventoryMaint.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\frmInventoryMaint.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmInventoryMaint.cs",
+              "ToolTip": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\frmInventoryMaint.cs [Design]",
+              "RelativeToolTip": "InventoryMaintenance\\frmInventoryMaint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:45:53.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryItems.txt",
+              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\InventoryItems.txt",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\InventoryItems.txt",
+              "ToolTip": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\InventoryItems.txt",
+              "RelativeToolTip": "InventoryMaintenance\\InventoryItems.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-19T22:40:29.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInventoryMaint.cs",
+              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\frmInventoryMaint.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmInventoryMaint.cs",
+              "ToolTip": "C:\\Users\\mrbag\\Documents\\contemporary programming\\InventoryMaintenance-5\\InventoryMaintenance\\InventoryMaintenance\\frmInventoryMaint.cs",
+              "RelativeToolTip": "InventoryMaintenance\\frmInventoryMaint.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:54:32.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.exe
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.deps.json
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.runtimeconfig.json
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.dll
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.pdb
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.Form1.resources
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.csproj.GenerateResource.cache
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.AssemblyInfoInputs.cache
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.AssemblyInfo.cs
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.csproj.CoreCompileInputs.cache
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.dll
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\refint\SimpleAsyc.dll
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.pdb
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.genruntimeconfig.cache
+C:\Users\elkabaim\source\repos\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\ref\SimpleAsyc.dll
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.exe
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.deps.json
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.runtimeconfig.json
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.dll
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\bin\Debug\net8.0-windows\SimpleAsyc.pdb
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.Form1.resources
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.csproj.GenerateResource.cache
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.AssemblyInfoInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.AssemblyInfo.cs
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.csproj.CoreCompileInputs.cache
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.dll
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\refint\SimpleAsyc.dll
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.pdb
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\SimpleAsyc.genruntimeconfig.cache
+C:\Islam\Fall 2024\Contemporary Programming\M8\SimpleAsyc\SimpleAsyc\obj\Debug\net8.0-windows\ref\SimpleAsyc.dll

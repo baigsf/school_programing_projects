@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MyMVCApp.Controllers.StudentController",
+    "Method": "GetStudent",
+    "RelativePath": "Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyMVCApp.Controllers.StudentController",
+    "Method": "Post",
+    "RelativePath": "Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "students",
+        "Type": "System.Collections.Generic.List\u00601[[MyMVCApp.Models.Student, MyMVCApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
