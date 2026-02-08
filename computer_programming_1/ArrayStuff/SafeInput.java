@@ -1,5 +1,5 @@
 import java.util.InputMismatchException;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class SafeInput {
     public static int getRangedInt(String prompt, int min, int max) {
