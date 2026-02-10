@@ -6,7 +6,7 @@ public class Main {
         // Use try-with-resources to ensure it's closed automatically when main exits
         try (Scanner scanner = new Scanner(System.in)) {
             while (true) {
-                // Pass the existing 'scanner' object to getValidMove
+                // Pass the existing 'scanner' object to getValidMove 
                 char playerAMove = getValidMove("Player A", scanner);
                 char playerBMove = getValidMove("Player B", scanner);
 
