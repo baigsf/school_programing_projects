@@ -33,7 +33,7 @@ public class Main {
         while (true) {
             System.out.print(playerName + ", enter your move R/P/S: ");
             // Now, 'scanner' here refers to the one passed from main()
-            move = Character.toLowerCase(scanner.next().charAt(0));
+ 
 
             if (move == 'r' || move == 'p' || move == 's') {
                 break;
