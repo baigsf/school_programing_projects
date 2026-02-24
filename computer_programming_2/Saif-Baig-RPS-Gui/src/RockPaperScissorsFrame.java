@@ -4,12 +4,21 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
+/**
+ * The main GUI frame for the Rock Paper Scissors game.
+ * Provides buttons for player moves, displays statistics, and shows game results.
+ * The computer uses various strategies to determine its moves.
+ */
 public class RockPaperScissorsFrame extends JFrame {
     
     private int playerWins;
     private int computerWins;
     private int ties;
     
+    /**
+     * Tracks how many times the player has chosen each move.
+     * Used by the Least Used and Most Used strategies.
+     */
     private int rockCount;
     private int paperCount;
     private int scissorsCount;
@@ -23,6 +32,10 @@ public class RockPaperScissorsFrame extends JFrame {
     private Cheat cheatStrategy;
     private RandomStrategy randomStrategy;
     
+    /**
+     * Creates the game frame and initializes all UI components.
+     * Sets up the title panel, buttons, statistics display, and results area.
+     */
     public RockPaperScissorsFrame() {
         playerWins = 0;
         computerWins = 0;
@@ -128,6 +141,11 @@ public class RockPaperScissorsFrame extends JFrame {
         tiesField.setText(String.valueOf(ties));
     }
     
+    /**
+     * Handles a complete round of the game when the player makes a move.
+     * Updates move counts, selects a strategy, determines the winner, and displays results.
+     * @param playerMove The move chosen by the player (R, P, or S)
+     */
     private void playGame(String playerMove) {
         updatePlayerMoveCount(playerMove);
         
@@ -152,6 +170,12 @@ public class RockPaperScissorsFrame extends JFrame {
         }
     }
     
+    /**
+     * Randomly selects a computer strategy based on probability weights.
+     * Strategies have different likelihoods: Cheat (10%), Least Used (20%),
+     * Most Used (20%), Last Used (20%), Random (30%).
+     * @return The name of the selected strategy
+     */
     private String selectStrategy() {
         Random rand = new Random();
         int choice = rand.nextInt(100) + 1;
@@ -177,6 +201,13 @@ public class RockPaperScissorsFrame extends JFrame {
         return strategy.getMove(playerMove);
     }
     
+    /**
+     * Determines the outcome of a round by comparing player and computer moves.
+     * Updates the appropriate win/tie counter.
+     * @param playerMove The player's chosen move
+     * @param computerMove The computer's chosen move
+     * @return A string describing the result ("Tie", "Player wins", or "Computer wins")
+     */
     private String determineResult(String playerMove, String computerMove) {
         if (playerMove.equals(computerMove)) {
             ties++;
@@ -219,6 +250,10 @@ public class RockPaperScissorsFrame extends JFrame {
         }
     }
     
+    /**
+     * Strategy that picks the move that beats the player's least frequently used move.
+     * Exploits patterns by countering what the player rarely does.
+     */
     private class LeastUsedStrategy implements Strategy {
         @Override
         public String getMove(String playerMove) {
@@ -230,6 +265,10 @@ public class RockPaperScissorsFrame extends JFrame {
         }
     }
     
+    /**
+     * Strategy that picks the move that beats the player's most frequently used move.
+     * Anticipates the player will continue using their most common choice.
+     */
     private class MostUsedStrategy implements Strategy {
         @Override
         public String getMove(String playerMove) {
@@ -241,6 +280,10 @@ public class RockPaperScissorsFrame extends JFrame {
         }
     }
     
+    /**
+     * Strategy that picks the move that beats the player's last move.
+     * If no previous move exists, falls back to random selection.
+     */
     private class LastUsedStrategy implements Strategy {
         @Override
         public String getMove(String playerMove) {
@@ -255,6 +298,11 @@ public class RockPaperScissorsFrame extends JFrame {
         }
     }
     
+    /**
+     * Entry point for the application. Creates and displays the game frame
+     * on the Event Dispatch Thread to ensure thread safety with Swing.
+     * @param args Command line arguments (not used)
+     */
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new RockPaperScissorsFrame().setVisible(true));
     }
